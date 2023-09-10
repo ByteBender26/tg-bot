@@ -57,7 +57,7 @@ public class User {
 
     @Override
     public String toString() {
-        return "User{" +
+        return "User {" +
                 "chatId=" + chatId +
                 ", firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
